@@ -1,0 +1,66 @@
+
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix schema: <http://schema.org/> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<Museu1>
+  a schema:Museum ;
+  rdfs:label "Museu dos Povos Indígenas da Ilha do Bananal - Javaé e Karajá" ;
+  dcterms:title "Museu dos Povos Indígenas da Ilha do Bananal - Javaé e Karajá" ;
+  dc:description "Não Informado" .
+
+<Museu2>
+  a schema:Museum ;
+  rdfs:label "Parque Estadual do Cantão" ;
+  dcterms:title "Parque Estadual do Cantão" ;
+  dcterms:title "Parque Estadual do Cantão" ;
+  dc:description "Unidade de conservação da natureza" .
+
+<Museu3>
+  a schema:Museum ;
+
+<Museu3>
+  a schema:Museum ;
+<Museu3>
+  a schema:Museum ;
+  rdfs:label "Museu Histórico e Cultural de Arraias - MHCA" ;
+  dcterms:title "Museu Histórico e Cultural de Arraias - MHCA" ;
+  dc:description "Museu de Território/Ecomuseu" .
+
+<Museu4>
+  a schema:Museum ;
+  rdfs:label "Museu Histórico e Cultural de Arraias" ;
+  dcterms:title "Museu Histórico e Cultural de Arraias - MHCA" ;
+  dc:description "Museu de Território/Ecomuseu" .
+
+  dcterms:title "Museu Histórico e Cultural de Arraias - MHCA" ;
+  dc:description "Museu de Território/Ecomuseu" .
+  dcterms:title "Museu Histórico e Cultural de Arraias - MHCA" ;
+  dcterms:title "Museu Histórico e Cultural de Arraias - MHCA" ;
+  dc:description "Museu de Território/Ecomuseu" .
+
+  dcterms:title "Museu Histórico e Cultural de Arraias - MHCA" ;
+  dc:description "Museu de Território/Ecomuseu" .
+  dcterms:title "Museu Histórico e Cultural de Arraias - MHCA" ;
+  dcterms:title "Museu Histórico e Cultural de Arraias - MHCA" ;
+  dcterms:title "Museu Histórico e Cultural de Arraias - MHCA" ;
+  dc:description "Museu de Território/Ecomuseu" .
+
+<Museu4>
+  a schema:Museum ;
+  dcterms:title "Museu Histórico e Cultural de Arraias - MHCA" ;
+  dc:description "Museu de Território/Ecomuseu" .
+
+<Museu4>
+  dcterms:title "Museu Histórico e Cultural de Arraias - MHCA" ;
+  dc:description "Museu de Território/Ecomuseu" .
+
+  dcterms:title "Museu Histórico e Cultural de Arraias - MHCA" ;
+  dc:description "Museu de Território/Ecomuseu" .
+  dc:description "Museu de Território/Ecomuseu" .
+
+<Museu4>
+  a schema:Museum ;
+  rdfs:label "Museu Histórico e Cultural de Arraias" ;
+  dcterms:title "Museu Histório
